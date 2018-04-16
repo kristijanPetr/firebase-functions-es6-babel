@@ -5,8 +5,7 @@ ability to use async/await
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-See deployment for notes on how to deploy the project on a live system.
+While Firebase still uses Node v6 , async/await is not available for usage. So I made this repo to transpile ES6 to ES5.
 
 ### Prerequisites
 
